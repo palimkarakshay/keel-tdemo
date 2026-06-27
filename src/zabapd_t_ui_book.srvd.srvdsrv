@@ -1,0 +1,4 @@
+@EndUserText.label: 'Bookstore book service'
+define service ZABAPD_T_UI_BOOK {
+  expose ZABAPD_T_C_BOOK as Book;
+}

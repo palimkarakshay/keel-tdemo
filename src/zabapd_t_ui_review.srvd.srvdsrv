@@ -1,0 +1,4 @@
+@EndUserText.label: 'Bookstore review service'
+define service ZABAPD_T_UI_REVIEW {
+  expose ZABAPD_T_C_REVIEW as Review;
+}
